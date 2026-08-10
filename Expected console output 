@@ -1,0 +1,10 @@
+Time=16 | A: R=0 Y=0 G=1 | B: R=1 Y=0 G=0
+Time=26 | A: R=0 Y=0 G=1 | B: R=1 Y=0 G=0
+Time=36 | A: R=0 Y=0 G=1 | B: R=1 Y=0 G=0
+Time=46 | A: R=0 Y=1 G=0 | B: R=1 Y=0 G=0
+Time=56 | A: R=0 Y=1 G=0 | B: R=1 Y=0 G=0
+Time=66 | A: R=1 Y=0 G=0 | B: R=0 Y=0 G=1
+Time=76 | A: R=1 Y=0 G=0 | B: R=0 Y=0 G=1
+Time=86 | A: R=1 Y=0 G=0 | B: R=0 Y=0 G=1
+Time=96 | A: R=1 Y=0 G=0 | B: R=0 Y=0 G=1
+Time=106 | A: R=1 Y=1 G=0 | B: R=1 Y=0 G=0
